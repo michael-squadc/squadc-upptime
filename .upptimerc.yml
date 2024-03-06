@@ -5,6 +5,14 @@ repo: squadc-upptime # The name of this repository
 sites:
   - name: Squad-C Website
     url: https://www.squadc.com
+    maxResponseTime: 5000
+    __dangerous__body_down_if_text_missing: 'Squad-C GmbH'
+  - name: Squad-C Website DE
+    url: https://www.squadc.com/de
+    maxResponseTime: 5000
+    __dangerous__body_down_if_text_missing: 'Squad-C GmbH'
+assignees:
+  - michael-squadc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
