@@ -9,7 +9,7 @@ sites:
   - name: Squad-C Website DE
     url: https://www.squadc.com/de
     maxResponseTime: 5000
-    __dangerous__body_down_if_text_missing: 'XXXXXXXXXXXXXXXX'
+    __dangerous__body_down_if_text_missing: 'GmbH'
 assignees:
   - michael-squadc
 
